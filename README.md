@@ -1,2 +1,1 @@
-# TecBlog-main
-site feito, no curso da udemy
+ https://brunocastrosilva.github.io/TecBlog-main/
